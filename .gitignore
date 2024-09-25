@@ -1,0 +1,10 @@
+/build
+*.zip
+__pycache__/
+*.py[cod]
+media/
+*.sqlite3
+config.json
+static_root/
+*.zip
+env/
